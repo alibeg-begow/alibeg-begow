@@ -9,8 +9,8 @@
 
 *Unfocused, yet deeply focused.*
 
-[![Instagram](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/alibeg_begow?igsh=MWV5YWtvMmdxOWd6dA==)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](alibegbegow@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alibeg_begow?igsh=MWV5YWtvMmdxOWd6dA==)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alibegbegow@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </div>
@@ -75,9 +75,9 @@ I care about solving real problems with clean, functional software — whether t
 
 | Language | Level |
 |----------|-------|
-| 🇹🇲 Turkmen | C1 (Native) |
-| 🇬🇧 English | B1 |
+| 🇺🇸 English | B1 |
 | 🇹🇷 Turkish | C1 |
+| 🇹🇲 Turkmen | C1 (Native) |
 | 🇷🇺 Russian | A2 |
 | 🇯🇵 Japanese | N5 |
 
@@ -88,11 +88,6 @@ I care about solving real problems with clean, functional software — whether t
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=alibeg-begow&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&ring_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=alibeg-begow&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibeg-begow&theme=github_dark&hide_border=true&layout=compact&title_color=58a6ff&text_color=c9d1d9" width="40%" />
 
 </div>
 
