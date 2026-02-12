@@ -87,9 +87,9 @@ I care about solving real problems with clean, functional software — whether t
 
 <div align="center">
 
-![](src="https://github-readme-stats.vercel.app/api?username=alibeg-begow&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&ring_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff")<br/>
-![](src="https://nirzak-streak-stats.vercel.app/?user=alibeg-begow&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff")<br/>
-![](src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibeg-begow&theme=github_dark&hide_border=true&layout=compact&title_color=58a6ff&text_color=c9d1d9")
+![](https://github-readme-stats.vercel.app/api?username=alibeg-begow&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alibeg-begow&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alibeg-begow&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
